@@ -1,2 +1,6 @@
-# string-calculator-tdd
-string-calculator-tdd style for incubyte
+# String Calculator TDD (Incubyte Assessment)
+
+## How to run
+```bash
+npm install
+npm test
