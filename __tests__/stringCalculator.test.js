@@ -13,4 +13,8 @@ test('single number returns its value', () => {
 
 test('two numbers comma separated', () => {
     expect(add("1,5")).toBe(6);
-  });
+});
+
+test('multiple numbers', () => {
+    expect(add("1,2,3,4")).toBe(10);
+});
